@@ -1,4 +1,4 @@
-# Cyber-Journey
+# cyber-journey
 A collection of labs, scripts, notes, and projects from my IT &amp; Cybersecurity learning journey.
 
 👋 Hi! I’m Jose Rivero
