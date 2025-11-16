@@ -6,18 +6,20 @@ A collection of labs, scripts, notes, and projects from my IT &amp; Cybersecurit
 I am a Criminal Intelligence Analyst transitioning into IT/Cybersecurity.
 
 🎯 What this repo contains
-	•	Hands-on cybersecurity labs
-	•	IT fundamentals & Network+ projects
-	•	Scripting in Bash, Python, and PowerShell
-	•	Digital forensics exercises
-	•	Notes, cheat sheets, and writeups
+
+-Hands-on cybersecurity labs
+-IT fundamentals & Network+ projects
+-Scripting in Bash, Python, and PowerShell
+-Digital forensics exercises
+-Notes, cheat sheets, and writeups
 
 🛠️ Skills I’m Building
-	•	Linux & command line
-	•	Basic scripting
-	•	Network security
-	•	Digital forensics workflow
-	•	Incident response fundamentals
+
+-Linux & command line
+-Basic scripting
+-Network security
+-Digital forensics workflow
+-Incident response fundamentals
 
 📈 My Goal
 
