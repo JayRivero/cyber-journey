@@ -1,9 +1,9 @@
 # cyber-journey
-A collection of labs, scripts, notes, and projects from my IT &amp; Cybersecurity learning journey.
+A collection of labs, scripts, notes, projects, and certificates documenting my IT & Cybersecurity learning journey.
 
 👋 Hi! I’m Jose Rivero
 
-I am a Criminal Intelligence Analyst transitioning into IT/Cybersecurity.
+A Criminal Intelligence Analyst transitioning into IT and Cybersecurity.
 
 ⸻
 
@@ -18,6 +18,8 @@ I am a Criminal Intelligence Analyst transitioning into IT/Cybersecurity.
 -Digital forensics exercises
 
 -Notes, cheat sheets, and writeups
+
+-Certificates for Infotech, Digital Forensics, and Intelligence courses
 
 ⸻
 
@@ -37,4 +39,4 @@ I am a Criminal Intelligence Analyst transitioning into IT/Cybersecurity.
 
 📈 My Goal
 
-Break into IT/Cybersecurity with strong, demonstrable hands-on skills.
+-Break into IT/Cybersecurity with strong, demonstrable hands-on skills.
