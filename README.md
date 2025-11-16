@@ -5,6 +5,8 @@ A collection of labs, scripts, notes, and projects from my IT &amp; Cybersecurit
 
 I am a Criminal Intelligence Analyst transitioning into IT/Cybersecurity.
 
+⸻
+
 🎯 What this repo contains
 
 -Hands-on cybersecurity labs
@@ -17,6 +19,8 @@ I am a Criminal Intelligence Analyst transitioning into IT/Cybersecurity.
 
 -Notes, cheat sheets, and writeups
 
+⸻
+
 🛠️ Skills I’m Building
 
 -Linux & command line
@@ -28,6 +32,8 @@ I am a Criminal Intelligence Analyst transitioning into IT/Cybersecurity.
 -Digital forensics workflow
 
 -Incident response fundamentals
+
+⸻
 
 📈 My Goal
 
